@@ -52,7 +52,7 @@ def getClassSlot(classArray):
 
 #Notify System
 def notify(text):
-    Notifier.notify(text, open="https://google.com")
+    Notifier.notify(text, open="https://derkaiser28.github.io/")
     #Notifier.notify(text)
 
 #Script
